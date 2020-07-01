@@ -1,0 +1,22 @@
+.username{
+    color:blue;
+}
+img{
+    width: 100%;
+    max-width: 4%;
+    height: auto;
+    
+}
+main{
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    
+}
+body{
+    background-color: lightblue;
+}
+.tweet{
+    margin-top: 4em;
+}
+
